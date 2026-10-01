@@ -5,6 +5,8 @@
 ## Prototype link
 
 (https://claude.ai/artifact/RNayYjB68LwpDDXXh1z6g8)
+<img width="2360" height="6706" alt="image" src="https://github.com/user-attachments/assets/a7d9e29a-88be-4401-81c5-b539cea79500" />
+
 
 _____
 
