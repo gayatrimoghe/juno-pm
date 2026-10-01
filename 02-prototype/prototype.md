@@ -12,9 +12,9 @@ _____
 
 ## What it demonstrates
 
-_The one flow this prototype proves._
+What it is: Juno's first skill — a weekly feedback digest that lands as a Slack DM at 8:02 Monday, half an hour before sprint planning.
 
-_____
+What it demonstrates: that scattered feedback across Slack, Jira and Notion can come back as one readable message — five themes, customer counts, verbatim quotes, sources — and that the counts hold up under inspection. Expanding a theme shows every signal behind it. The disagree week keeps both sides instead of averaging them. The thin week refuses to produce anything at all.
 
 ## Debrief
 
