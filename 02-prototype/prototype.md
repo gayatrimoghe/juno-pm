@@ -11,10 +11,9 @@ Note: mockup, not production. Low-fidelity class prototype for Module 1.
 _____
 
 ## What it demonstrates
+What it is: Juno's first skill. A weekly feedback digest that shows up as a Slack DM at 8:02 on Monday, about half an hour before sprint planning.
 
-What it is: Juno's first skill — a weekly feedback digest that lands as a Slack DM at 8:02 Monday, half an hour before sprint planning.
-
-What it demonstrates: that scattered feedback across Slack, Jira and Notion can come back as one readable message — five themes, customer counts, verbatim quotes, sources — and that the counts hold up under inspection. Expanding a theme shows every signal behind it. The disagree week keeps both sides instead of averaging them. The thin week refuses to produce anything at all.
+What it demonstrates: that a week of feedback scattered across Slack, Jira and Notion can come back as one message I can actually read — five themes, how many customers raised each, the quote, the source. And that the counts hold up if you poke at them. Open a theme and you see every signal that went into it. The disagree week keeps both sides on the record. The thin week won't produce anything at all.
 
 ## Debrief
 
